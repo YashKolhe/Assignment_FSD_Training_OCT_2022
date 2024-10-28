@@ -1,0 +1,14 @@
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\bin\Debug\net6.0\DAY_3_ASSIGNMENT.exe
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\bin\Debug\net6.0\DAY_3_ASSIGNMENT.deps.json
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\bin\Debug\net6.0\DAY_3_ASSIGNMENT.runtimeconfig.json
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\bin\Debug\net6.0\DAY_3_ASSIGNMENT.dll
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\bin\Debug\net6.0\DAY_3_ASSIGNMENT.pdb
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\obj\Debug\net6.0\DAY_3_ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\obj\Debug\net6.0\DAY_3_ASSIGNMENT.AssemblyInfoInputs.cache
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\obj\Debug\net6.0\DAY_3_ASSIGNMENT.AssemblyInfo.cs
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\obj\Debug\net6.0\DAY_3_ASSIGNMENT.csproj.CoreCompileInputs.cache
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\obj\Debug\net6.0\DAY_3_ASSIGNMENT.dll
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\obj\Debug\net6.0\refint\DAY_3_ASSIGNMENT.dll
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\obj\Debug\net6.0\DAY_3_ASSIGNMENT.pdb
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\obj\Debug\net6.0\DAY_3_ASSIGNMENT.genruntimeconfig.cache
+E:\Dot Net FSD Training Phase3\DAY_3_ASSIGNMENT\DAY_3_ASSIGNMENT\obj\Debug\net6.0\ref\DAY_3_ASSIGNMENT.dll
