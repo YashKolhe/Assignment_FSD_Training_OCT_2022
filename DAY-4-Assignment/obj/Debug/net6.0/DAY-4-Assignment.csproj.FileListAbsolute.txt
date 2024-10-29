@@ -1,0 +1,14 @@
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\bin\Debug\net6.0\DAY-4-Assignment.exe
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\bin\Debug\net6.0\DAY-4-Assignment.deps.json
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\bin\Debug\net6.0\DAY-4-Assignment.runtimeconfig.json
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\bin\Debug\net6.0\DAY-4-Assignment.dll
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\bin\Debug\net6.0\DAY-4-Assignment.pdb
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\obj\Debug\net6.0\DAY-4-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\obj\Debug\net6.0\DAY-4-Assignment.AssemblyInfoInputs.cache
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\obj\Debug\net6.0\DAY-4-Assignment.AssemblyInfo.cs
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\obj\Debug\net6.0\DAY-4-Assignment.csproj.CoreCompileInputs.cache
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\obj\Debug\net6.0\DAY-4-Assignment.dll
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\obj\Debug\net6.0\refint\DAY-4-Assignment.dll
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\obj\Debug\net6.0\DAY-4-Assignment.pdb
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\obj\Debug\net6.0\DAY-4-Assignment.genruntimeconfig.cache
+E:\Dot Net FSD Training Phase3\DAY-4-Assignment\DAY-4-Assignment\obj\Debug\net6.0\ref\DAY-4-Assignment.dll
